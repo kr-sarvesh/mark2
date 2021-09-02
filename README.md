@@ -18,7 +18,9 @@ To begin it will ask your name first
   - readline-sync
   - chalk 
 
---  You'll learn some usefull topic in javaScript
+--  
+
+You'll learn some usefull topic in javaScript
 
  - for loop
  - array
