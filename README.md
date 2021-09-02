@@ -1,5 +1,5 @@
-Captain-America-Quiz
-# Quizs
+
+# Captain-America-Quiz 
 A quiz application on CLI.  
 It asks some questions about [MARVEL TV SERIES](https://replit.com/@KUMARSARVESH1/mark2?embed=1&output=1#index.js).
 A game built using CLI with JavaScript language for fun. The game asks you some basics questions about Captain-America quiz series. 
@@ -18,11 +18,9 @@ To begin it will ask your name first
   - readline-sync
   - chalk 
 
----
+--  You'll learn some usefull topic in javaScript
 
-## You'll learn some usefull topic in javaScript
-
- - for lopp
+ - for loop
  - array
  - variable
  - function
